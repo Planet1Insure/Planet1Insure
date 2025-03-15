@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 🚀 **View my portfolio live:**  
-🔗 [Click Here](https://planet1insure.github.io/cybersecurity-portfolio/)
+🔗 [Click Here](https://planet1insure.github.io)
 
 ## About This Portfolio
 This portfolio showcases my expertise in **Cybersecurity**, including **penetration testing, SIEM analysis, vulnerability assessments, and security operations**.
