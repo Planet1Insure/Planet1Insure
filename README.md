@@ -7,14 +7,6 @@
 ## About This Portfolio
 This portfolio showcases my expertise in **Cybersecurity**, including **SIEM analysis, vulnerability assessments, and security operations**.
 
-I am a passionate Information Technology professional with a growing specialization in Cybersecurity.
-My journey began as a certified Oracle Expert and Oracle Certified Associate, where I gained experience in Linux applications and database management using SQL.
-
-To further solidify my technical expertise, I pursued a Master’s degree in Information Technology with a focus on Business Intelligence.
-During my studies, I explored Cybersecurity, which became an integral part of my coursework and projects.
-I applied cybersecurity principles to fortify web applications and enhance their security.
-Some of these projects are included in this portfolio and are currently running.
-
 ## 🛠️ Skills Highlighted:
 - **Python**
 - **NIST Framework**
