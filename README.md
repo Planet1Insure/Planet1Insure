@@ -5,7 +5,7 @@
 🔗 [Click Here](https://github.com/Planet1Insure)
 
 ## About This Portfolio
-This portfolio showcases my expertise in **Cybersecurity**, including **penetration testing, SIEM analysis, vulnerability assessments, and security operations**.
+This portfolio showcases my expertise in **Cybersecurity**, including **SIEM analysis, vulnerability assessments, and security operations**.
 
 I am a passionate Information Technology professional with a growing specialization in Cybersecurity.
 My journey began as a certified Oracle Expert and Oracle Certified Associate, where I gained experience in Linux applications and database management using SQL.
