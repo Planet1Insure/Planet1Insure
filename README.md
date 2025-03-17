@@ -16,27 +16,27 @@ I applied cybersecurity principles to fortify web applications and enhance their
 Some of these projects are included in this portfolio and are currently running.
 
 ## 🛠️ Skills Highlighted:
-- ç
+- **Python**
 - **NIST Framework**
-- **SQL & Python**
+- **SQL**
 - **Log Analysis using Wireshark, SIEM, and Splunk**
 - **Incident Reportingk**
 - **Effective communicationk**
 
 ## 📸 Experience:
-**Linux to check users' privileges**
+#### **Linux to check users' privileges**
 <img src="./Nmap.png" alt="SIEM Logs" style="width: 50%; display: block; margin: auto;">
-**Checking the function of a command on Linux**
+Checking the function of a command on Linux
 <img src="./Least_privilege audit.png" alt="SIEM Logs" style="width: 50%; display: block; margin: auto;">
-**SIEM Dashboard and log Analysis**
+SIEM Dashboard and log Analysis
 <img src="./alertlog.png" alt="SIEM Logs" style="width: 50%; display: block; margin: auto;">
-**Log Analysis**
+Log Analysis
 <img src="./siem.png" alt="SIEM Logs" style="width: 50%; display: block; margin: auto;">
-**Assessing log files for unathorised access on SIEM**
+Assessing log files for unathorised access on SIEM
 <img src="./alertlog2.png" alt="SIEM Logs" style="width: 50%; display: block; margin: auto;">
-**Identifying malicious ip address before escalatng to the team lead**
+Identifying malicious ip address before escalatng to the team lead
 <img src="./ipaddresslock.png" alt="SIEM Logs" style="width: 50%; display: block; margin: auto;">
-**Blocking malicious ip**
+Blocking malicious ip
 <img src="./ipblocksite.png" alt="SIEM Logs" style="width: 50%; display: block; margin: auto;">
 
 
